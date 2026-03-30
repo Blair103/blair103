@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Software Engineer and Cybersecurity Specialist focused on designing <br>and developing secure, scalable, and high-performance systems. <br>I specialize in addressing complex challenges at the intersection of software <br>development and security, ensuring applications are robust, reliable, and resilient.<br><br>Professional Focus:<br>Architecting and developing full-stack applications<br>Engineering secure, scalable backend systems and APIs<br>Performing comprehensive security audits and vulnerability assessments<br>Enforcing application security standards and best practices<br>Identifying, analyzing, and mitigating system vulnerabilities and threats<br><br>Cybersecurity Specialization:<br>Application Security (AppSec) across the software development lifecycle<br>Execution of vulnerability assessments and penetration testing (VAPT)<br>Enforcement of secure coding standards and best practices<br>Network security architecture and foundational controls<br>Threat modeling, risk analysis, and mitigation strategies
 
 
